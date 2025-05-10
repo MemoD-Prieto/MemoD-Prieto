@@ -81,7 +81,7 @@ I believe in working hard *now* to open doors *later*. Whether it’s standing u
 
 ## 📫 Contact & Links
 
-* 🧠 [LinkedIn]([https://linkedin.com/in/guillermoprieto](https://www.linkedin.com/in/guillermo-daniel-prieto-romero/))
+* 🧠 [LinkedIn]((https://www.linkedin.com/in/guillermo-daniel-prieto-romero/ )]
 * ✉️ Email: [guillermod.prieto@email.com](mailto:guillermod.prieto@email.com)
 * 🌐 Portfolio Website: *Coming soon — built with Next.js & Tailwind CSS*
 
