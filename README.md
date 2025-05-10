@@ -12,7 +12,7 @@ One of my dream projects in progress is a **D\&D interactive adventure platform*
 
 ## 🏗️ Portfolio Projects
 
-### 🧩 [KronosCRM](https://github.com/guillermoprieto/kronoscrm)
+### 🧩 [KronosCRM](https://github.com/MemoD-Prieto/KronosCRM)
 
 A long-term, modular CRM platform built from scratch to showcase architecture, microservices, infrastructure, and language versatility.
 
