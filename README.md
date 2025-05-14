@@ -10,6 +10,37 @@ One of my dream projects in progress is a **D\&D interactive adventure platform*
 
 ---
 
+## 🛠️ Technologies & Tools
+
+> Here's a structured overview of the technologies I work with across different areas.
+
+| 💻 **Languages**         | 🛠️ **Backend & APIs**         | ☁️ **Cloud & Hosting**        |
+|--------------------------|-------------------------------|-------------------------------|
+| Go                       | RESTful API Design            | AWS (EC2, S3, RDS, ECR, IAM)  |
+| JavaScript / TypeScript  | GraphQL / gRPC                | Oracle Cloud Infrastructure   |
+| Python                   | WebSockets / Middleware       | Cloudflare (DNS, Pages)       |
+| Java / Kotlin            | JWT / OAuth2                  |                                |
+| Ruby / C#                | Express, Iris, Gin            |                                |
+| C / C++ / Bash           |                               |                                |
+
+| 🖥️ **Frontend**         | 🧰 **DevOps & Infra**           | 🗃️ **Databases**              |
+|--------------------------|--------------------------------|-------------------------------|
+| React / Next.js          | Docker                        | PostgreSQL                    |
+| Tailwind CSS             | Kubernetes (EKS, K3s, Minikube)| Redis                         |
+| HTML / CSS / SASS        | Terraform                     | MySQL                         |
+|                          | GitHub Actions / Jenkins      | SQL Server                    |
+|                          | CI/CD Pipelines / Makefiles   | MongoDB (basics)              |
+|                          | Linux / CLI tools             |                               |
+
+| 🧪 **Testing & Quality** | 📦 **Other Tools**             |                               |
+|--------------------------|-------------------------------|-------------------------------|
+| Unit Testing (Go, Jest)  | Git / GitHub / GitLab         |                               |
+| Integration & Mocking    | Notion (documentation)        |                               |
+| Postman / Thunder Client | Figma (prototyping)           |                               |
+| Linting / Analysis       | VS Code / GoLand              |                               |
+
+
+---
 ## 🏗️ Portfolio Projects
 
 ### 🧩 [KronosCRM](https://github.com/MemoD-Prieto/KronosCRM)
